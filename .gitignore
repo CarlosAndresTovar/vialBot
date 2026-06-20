@@ -3,3 +3,12 @@
 .kimi
 .cursor
 .env
+node_modules/*
+.venv
+.DS_Store
+.venv/__pycache__/*
+.venv/__pycache__
+.venv/lib/*
+__pycache__/
+.env.local
+.env.example
