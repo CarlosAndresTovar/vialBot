@@ -1,0 +1,5 @@
+# Ignore agents files
+.claude
+.kimi
+.cursor
+.env
